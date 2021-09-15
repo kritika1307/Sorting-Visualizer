@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+#bars{
+  margin: auto;
+  margin-top: 1%;
+  width: 700px;
+  height: 400px;
+}
+
+.divElement{
+  float: left;
+  padding: 0;
+  background-color: yellow;
+  width: 5px;
+  margin-left: 2px;
+}
